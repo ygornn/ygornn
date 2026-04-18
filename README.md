@@ -2,7 +2,7 @@
 <hr>
 <h2>About me</h2>
 <div>
-  <div><br><p>Computer scientist student at Pontíficia Universidade Católica do Paraná (PUCPR). Technician in Informathic for the Internet.
+  <div><br><p>Computer scientist student at Pontíficia Universidade Católica do Paraná (PUCPR). Technician in Informathic for the Internet. Interest in backend development.
 </div>
 <hr>
 <h2>Technologies that I know or I'm learning</h2>
