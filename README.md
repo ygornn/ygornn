@@ -2,7 +2,7 @@
 <hr>
 <h2>About me</h2>
 <div>
-  <div><br><p>Computer scientist student.</p></div>
+  <div><br><p>Desenvolvedor Full-Stack | PHP | JavaScript
 </div>
 <hr>
 <h2>Technologies that I know or I'm learning</h2>
