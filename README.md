@@ -11,8 +11,3 @@
     <img src="https://skillicons.dev/icons?i=php,python,java,html,css,js,mysql,flutter,figma&theme=light" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygornn&stats_format=bytes&title_color=ffffff&theme=dark"</img>
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ygornn/ygornn/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ygornn/ygornn/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ygornn/ygornn/output/pacman-contribution-graph.svg">
-</picture>
