@@ -6,7 +6,7 @@
   <div><br><p>Computer scientist student at Pontíficia Universidade Católica do Paraná (PUCPR). Technician in Informathic for the Internet. Interest in backend development.
 </div>
 <hr>
-<h2>Technologies that I know or I'm learning</h2>
+<h2>Technologies that I know or that I'm learning</h2>
 <br>
     <img src="https://skillicons.dev/icons?i=php,python,java,html,css,js,mysql,flutter,figma&theme=light" />
   <br>
